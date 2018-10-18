@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+October 19, 2018
 
 ### Student Name:  
-(First and Last Name)
+Caitlyn Colvin
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This assignment is meant to create a functional expense calculator. I was responsible for adding functionality for household, transportation, and miscellaneous categories.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+https://cnc16j.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. I learned how to access elements with certain names in a document using document.getElementById() to assign those values to variables.
+2. I learned how to translate a string into a floating-point number using parseFloat().
+3. I learned how to use getElementById() and toFixed() to control where a certain element will be displayed on the completed HTML page.
 
 
 
