@@ -14,6 +14,7 @@ This assignment is meant to create a functional expense calculator. I was respon
 
 ### View Project:
 https://cnc16j.github.io/lesson4_javascript1/
+https://github.com/cnc16j/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
 1. I learned how to access elements with certain names in a document using document.getElementById() to assign those values to variables.
